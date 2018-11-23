@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Pencil
+Comment=Sketching and GUI prototyping tool
+Exec=pencil %f
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=pencil.png
+Categories=Graphics;2DGraphics;Development;
+MimeType=application/x-evolus-pencil

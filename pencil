@@ -1,0 +1,2 @@
+#!/bin/bash
+nohup npm start --prefix /path-to/pencil ./node_modules/.bin/electron > /dev/null 2>&1 &
